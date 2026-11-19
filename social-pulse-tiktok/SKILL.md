@@ -1,3 +1,8 @@
+---
+name: social-pulse-tiktok
+description: Roteiro Social Pulse para TikTok. Use para planejar vídeos para a FYP e a busca, séries do nicho, lista de alvos e rascunhos de comentários e CTAs de um cliente.
+---
+
 # Social Pulse — Módulo Completo: TikTok
 
 ## 0. Objetivo da Operação

@@ -1,3 +1,8 @@
+---
+name: social-pulse-instagram
+description: Roteiro Social Pulse para Instagram. Use para planejar SEO de perfil, Reels e carrosséis com retenção, lista de alvos do nicho e rascunhos de comentários e CTAs de um cliente.
+---
+
 # Social Pulse — Módulo Completo: Instagram
 
 ## 0. Objetivo da Operação
