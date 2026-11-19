@@ -1,3 +1,8 @@
+---
+name: social-pulse-youtube
+description: Roteiro Social Pulse para YouTube (vídeos longos e Shorts). Use para planejar títulos, descrições com capítulos, thumbnails, playlists, lista de alvos e rascunhos de comentários e CTAs de um cliente.
+---
+
 # Social Pulse — Módulo Completo: YouTube (Vídeos Longos e Shorts)
 
 ## 0. Objetivo da Operação
